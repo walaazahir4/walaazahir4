@@ -10,8 +10,7 @@
 
 ###
 
-<p data-importer="text" align="left">✨ Creating bugs since ...<br>📚 I'm currently learning Software Engineering<br>🎯 Goals: FullStack developer</p>
-
+<p data-importer="text" align="left">✨ Creating bugs since 2024<br>📚 Learning Software Engineering, one commit at a time<br>🎯 Goal: Full-Stack Developer</p>
 ###
 
 <h2 data-importer="text" align="left">I code with</h2>
