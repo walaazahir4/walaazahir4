@@ -49,7 +49,7 @@ I'm passionate about software development, continuous learning, and writing main
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### 🌸 Scents – Flower E-commerce
 
